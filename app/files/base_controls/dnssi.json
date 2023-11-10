@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Limit information system access to authorized users, processes acting on behalf of authorized users or",       
+        "description": "Maintain list of authorized users defining their identity and associated role and sync with sys",       
+        "guidance": "List approved users, services, and devices, and have logical controls in place to prevent unauthor",
+        "ref_code": "AC.L1-3.1.1",
+        "system_level": false,
+        "subcategory": "Identity & Access Management (IAM)",
+        "category": "Access Control",
+        "dti": "easy",
+        "dtc": "easy",
+        "meta": {},
+        "subcontrols": [
+            {
+                "ref_code": "3.1.1.a",
+                "name": "Authorized users are identified.",
+                "description": "Authorized users are identified.",
+                "meta": {},
+                "tasks": [
+                    {
+                        "title": "title of the task",
+                        "description": "description of the task"
+                    }
+                ]
+            }
+        ]
+    }
+}
